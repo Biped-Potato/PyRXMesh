@@ -6,5 +6,10 @@
         "*.cu": "cuda-cpp",
         "*.cuh": "cuda-cpp",
         "*.inl": "cpp"
-    }
+    },
+    "cSpell.words": [
+        "bunnyhead",
+        "Eigen",
+        "fout"
+    ]
 }
